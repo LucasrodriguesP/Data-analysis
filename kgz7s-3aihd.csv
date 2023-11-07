@@ -1,0 +1,383 @@
+rua,bairro,preco,m2,quartos,banheiros,garagem
+Avenida Carlos Lacerda,Abolição,110000,63,2,2,0
+Rua Valdomiro Figueira Jorge,Alto da Boa Vista,2670000,160,2,2,1
+Rua Adelis Luis de Lima,Anchieta,170000,67,2,2,0
+Rua Modelo,Anchieta,150000,72,2,2,1
+Rua Santo Antonio da Pedra,Anchieta,260000,68,2,2,0
+Travessa Ipê do Jamelão,Andaraí,620000,107,3,2,1
+Via Dulce,Andaraí,470000,71,2,2,1
+Travessa Bromélias do Jamelão,Andaraí,660000,108,3,2,1
+Rua Vega,Andaraí,250000,77,2,2,1
+Travessa Eufrásio,Andaraí,530000,112,3,2,1
+Travessa Antuérpia de Souza Santos,Andaraí,370000,75,2,2,1
+Travessa Flor-de-Lis do Jamelão,Andaraí,220000,72,2,2,1
+Travessa Antuérpia de Souza Santos,Andaraí,690000,99,2,2,1
+Rua Rocha Pombo,Andaraí,710000,190,2,2,1
+Travessa Bromélias do Jamelão,Andaraí,700000,145,3,2,1
+Travessa João de Barro do Jamelão,Andaraí,510000,111,2,3,1
+Travessa Jose Paixão,Andaraí,620000,98,3,2,1
+Travessa Rio Joana,Andaraí,740000,164,3,2,1
+Travessa Evaldo Gomes da Paixão,Andaraí,710000,195,3,2,1
+Travessa Diamantes do Andaraí,Andaraí,710000,182,2,2,1
+Travessa Projetada Sete PAA 12396/PAL48172,Anil,790000,187,2,3,1
+Rua do Bem Querer,Anil,520000,95,3,3,1
+Travessa Projetada 4 PAA 12559/PAL 49018,Anil,730000,171,3,3,1
+Rua do Bem Querer,Anil,470000,74,2,2,1
+Rua Oscar Lopes,Anil,690000,98,2,2,1
+Travessa Projetada Onze PAA 12396/PAL48172,Anil,780000,172,2,3,1
+Rua Angelo Pimentel,Bancários,370000,61,2,2,0
+Avenida Ribeiro Dantas,Bangu,380000,88,2,2,1
+Rua Rio da Prata,Bangu,230000,80,2,2,1
+Rua Bombaim,Bangu,240000,87,3,3,1
+Praça dos Salmos,Bangu,250000,79,2,2,1
+Estrada do Engenho,Bangu,360000,66,2,2,0
+Praça Silvinha Teles,Bangu,330000,62,2,2,0
+Praça da Fé,Bangu,310000,89,2,2,1
+Estrada Porto Nacional,Bangu,250000,66,2,2,0
+Travessa Monteiro Lobato,Bangu,420000,62,2,2,0
+Travessa Castor de Andrade,Bangu,320000,87,2,3,1
+Travessa Sampaio,Bangu,210000,69,2,2,0
+Praça José Gonzales,Bangu,250000,89,2,3,1
+Rua Padre Lino,Bangu,190000,86,3,3,1
+Rua Denise Dobbin Bauerfeldt,Barra da Tijuca,2600000,155,3,2,1
+Rua Denise Dobbin Bauerfeldt,Barra da Tijuca,610000,118,2,2,1
+Avenida Prefeito Dulcídio Cardoso,Barra da Tijuca,910000,166,2,3,1
+Avenida Sobral Pinto,Barra da Tijuca,1610000,149,2,2,1
+Avenida Sobral Pinto,Barra da Tijuca,700000,158,2,3,1
+Avenida Ayrton Senna,Barra da Tijuca,610000,109,2,3,1
+Avenida Ayrton Senna,Barra da Tijuca,2380000,139,3,2,1
+Avenida Ayrton Senna,Barra da Tijuca,2260000,199,3,2,1
+Avenida das Américas,Barra da Tijuca,2000000,175,3,2,1
+Avenida Armando Lombardi,Barra da Tijuca,2470000,156,2,3,1
+Rua Arquiteto Henrique Mindlin,Barra da Tijuca,750000,167,2,3,1
+Avenida das Américas,Barra da Tijuca,2790000,134,2,2,1
+Rua Luiz Bonfá,Barra da Tijuca,2600000,188,2,3,1
+Avenida Ministro Ivan Lins,Barra da Tijuca,1070000,174,3,3,1
+Rua José Alves Linhares,Barra da Tijuca,540000,99,3,2,1
+Rua Palmaz,Barra da Tijuca,1100000,142,3,2,1
+Travessa do Souza,Barra de Guaratiba,350000,83,3,2,1
+Rua Augusto Jose Ribeiro,Barra de Guaratiba,450000,89,3,3,1
+Rua General Gustavo Cordeiro de Farias,Benfica,290000,89,3,3,1
+Vila Goiás,Benfica,270000,72,2,2,1
+Rua Santo Antônio,Benfica,460000,77,2,2,1
+Avenida Monte Castelo,Benfica,550000,102,3,3,1
+Praça Getúlio Vargas,Benfica,160000,87,3,3,1
+Vila Amazonas,Benfica,240000,87,2,3,1
+Rua Baependi,Benfica,190000,65,2,2,0
+Avenida Monte Castelo,Benfica,390000,84,3,3,1
+Vila Minas Gerais,Benfica,260000,71,2,2,1
+Acesso da Rua Arará,Benfica,250000,69,2,2,0
+Campo da Radiobrás,Benfica,310000,71,2,2,1
+Praça Dario Rogerio,Benfica,300000,87,2,2,1
+Rua Rafael Texeira Osório,Bento Ribeiro,260000,77,2,2,1
+Rua Rafael Texeira Osório,Bento Ribeiro,250000,89,3,3,1
+Rua Coronel Alencastro,Bento Ribeiro,300000,68,2,2,0
+Rua Coronel Alencastro,Bento Ribeiro,290000,88,3,2,1
+Rua Rafael Texeira Osório,Bento Ribeiro,330000,63,2,2,0
+Rua Um,Bento Ribeiro,330000,68,2,2,0
+Rua D,Bento Ribeiro,240000,88,3,2,1
+Avenida Brasil,Bonsucesso,290000,60,1,1,0
+Rua Saint Hilaire,Bonsucesso,410000,78,2,2,1
+Praça Cantão,Botafogo,430000,87,2,3,1
+Rua Ministro Raul Fernandes,Botafogo,1180000,169,2,3,1
+Praça Engenheiro Bernardo Saião,Botafogo,1100000,152,3,2,1
+Rua Seritinga,Braz de Pina,180000,71,2,2,1
+Rua Rio Apa,Braz de Pina,450000,62,2,2,0
+Rua Maestro Henrique Vogeler,Braz de Pina,540000,105,3,2,1
+Rua Campanário,Braz de Pina,220000,66,2,2,0
+Rua Um,Braz de Pina,430000,60,1,1,0
+Rua do Rio,Cachambi,310000,78,2,2,1
+Avenida Dom Helder Camara,Cachambi,280000,72,2,2,1
+Rua do Rio,Cachambi,200000,76,2,2,1
+Beco 211,Cachambi,350000,78,2,2,1
+Rua Antônio Sales,Cacuia,550000,93,3,2,1
+Rua Padre Manuel da Nobrega,Cascadura,320000,67,2,2,0
+Avenida Dom Helder Camara,Cascadura,430000,69,2,2,0
+Largo do Catumbi,Catumbi,280000,84,2,2,1
+Avenida Presidente Antonio Carlos,Centro,860000,140,2,3,1
+Rua Buenos Aires,Centro,220000,62,2,2,0
+Travessa Comércio,Centro,740000,181,3,3,1
+Rua Gustavo de Lacerda,Centro,900000,179,2,2,1
+Rua do Rosário,Centro,660000,102,2,2,1
+Rua Primeiro de Março,Centro,310000,61,2,2,0
+Largo dos Pracinhas,Centro,880000,176,3,3,1
+Rua do Rosário,Centro,330000,75,2,2,1
+Avenida Presidente Antonio Carlos,Centro,220000,73,2,2,1
+Rua Candelária,Centro,330000,76,2,2,1
+Rua Primeiro de Março,Centro,820000,161,2,3,1
+Rua Buenos Aires,Centro,470000,66,2,2,0
+Praça Melvin Jones,Centro,510000,105,3,3,1
+Rua Primeiro de Março,Centro,650000,104,3,2,1
+Rua Candelária,Centro,410000,61,2,2,0
+Rua Luís de Camões,Centro,950000,135,3,3,1
+Rua Buenos Aires,Centro,510000,93,3,3,1
+Rua Debret,Centro,480000,65,2,2,0
+Praça Monte Castelo,Centro,690000,96,3,3,1
+Avenida Almirante Barroso,Centro,270000,82,3,3,1
+Rua Araújo Porto Alegre,Centro,840000,200,3,2,1
+Avenida Presidente Antonio Carlos,Centro,880000,158,3,3,1
+Avenida Presidente Antonio Carlos,Centro,710000,190,2,3,1
+Avenida Erasmo Braga,Centro,990000,185,2,2,1
+Rua Buenos Aires,Centro,580000,116,2,2,1
+Rua Anfilofio de Carvalho,Centro,910000,131,3,3,1
+Rua Araújo Porto Alegre,Centro,830000,174,2,2,1
+Avenida Presidente Antonio Carlos,Centro,830000,140,3,2,1
+Rua Santa Luzia,Centro,460000,70,2,2,1
+Rua Primeiro de Março,Centro,750000,130,2,2,1
+Rua da Conceição,Centro,580000,110,2,2,1
+Beco do Rosário,Centro,960000,154,2,3,1
+Avenida General Justo,Centro,430000,69,2,2,0
+Rua Primeiro de Março,Centro,280000,87,2,2,1
+Rua do Rosário,Centro,650000,114,3,3,1
+Rua Miguel Couto,Centro,860000,164,3,2,1
+Rua dos Andradas,Centro,200000,77,2,2,1
+Avenida Presidente Antonio Carlos,Centro,720000,196,2,3,1
+Rua dos Andradas,Centro,300000,89,3,3,1
+Rua Debret,Centro,900000,128,3,3,1
+Rua Candelária,Centro,970000,131,3,3,1
+Travessa do Paço,Centro,750000,122,3,3,1
+Avenida Almirante Barroso,Centro,620000,115,2,3,1
+Avenida Presidente Antonio Carlos,Centro,630000,113,2,3,1
+Rua Marechal Aguinaldo Caiado de Castro,Centro,360000,83,3,2,1
+Beco do Rosário,Centro,320000,84,3,3,1
+Avenida Marechal Floriano,Centro,390000,61,2,2,0
+Praça Tiradentes,Centro,860000,194,3,3,1
+Rua do Rosário,Centro,820000,196,2,3,1
+Rua Armando de Sales Oliveira,Centro,710000,129,2,3,1
+Avenida Presidente Antonio Carlos,Centro,610000,92,2,2,1
+Avenida Presidente Antonio Carlos,Centro,520000,118,2,2,1
+Rua do Mercado,Centro,600000,95,2,2,1
+Avenida Almirante Barroso,Centro,970000,165,2,3,1
+Avenida Presidente Wilson,Centro,790000,128,3,2,1
+Rua Marechal Aguinaldo Caiado de Castro,Centro,970000,155,2,3,1
+Rua Buenos Aires,Centro,970000,171,2,3,1
+Rua Primeiro de Março,Centro,340000,73,2,2,1
+Avenida Presidente Antonio Carlos,Centro,640000,97,2,2,1
+Avenida República do Chile,Centro,210000,74,2,2,1
+Rua Debret,Centro,620000,115,2,3,1
+Avenida República do Chile,Centro,240000,84,3,3,1
+Rua Araújo Porto Alegre,Centro,340000,68,2,2,0
+Avenida Marechal Floriano,Centro,810000,138,3,2,1
+Avenida Presidente Antonio Carlos,Centro,380000,84,2,3,1
+Rua Ramalho Ortigão,Centro,250000,81,3,2,1
+Praça Embaixador Azeredo da Silveira,Centro,530000,119,3,3,1
+Praça Procurador-Geral de Justiça Hermano Odilon dos Anjos,Centro,990000,120,2,3,1
+Praça Comandante Alexandre Siqueira,Centro,640000,109,3,2,1
+Rua Visconde do Rio Branco,Centro,800000,195,2,2,1
+Praça Tiradentes,Centro,980000,155,2,2,1
+Rua Leandro Martins,Centro,740000,167,3,3,1
+Rua Luís de Camões,Centro,650000,95,2,3,1
+Avenida Presidente Vargas,Centro,410000,70,2,2,1
+Rua da Conceição,Centro,290000,73,2,2,1
+Rua Cisne,Copacabana,1720000,145,2,2,1
+Travessa Andorinha,Copacabana,1480000,160,3,3,1
+Rua Tupassi,Cosmos,340000,69,2,2,0
+Rua Parapeuna,Cosmos,150000,60,1,1,0
+Praça Igara,Cosmos,180000,76,2,2,1
+Rua do Campo Alto,Cosmos,250000,87,2,2,1
+Rua A - PAA 10508/ PAL 40983,Curicica,400000,78,2,2,1
+Rua Arlindo Lucio da Silva,Deodoro,110000,62,2,2,0
+Travessa Mestre Heckel de Assis,Deodoro,90000,45,1,1,0
+Travessa Mestre Francisco Sombra,Deodoro,80000,20,1,1,0
+Travessa M. C. Euzébio,Deodoro,180000,72,2,2,1
+Avenida Carlos Lacerda,Encantado,150000,87,3,2,1
+Rua Cesar do Rego Monteiro Filho,Engenho da Rainha,250000,85,3,3,1
+Rua Cinco,Engenho da Rainha,180000,74,2,2,1
+Rua Bento Gonçalves,Engenho de Dentro,220000,66,2,2,0
+Rua Jose dos Reis,Engenho de Dentro,460000,80,2,2,1
+Vila Luzimar,Engenho de Dentro,460000,73,2,2,1
+Rua Morro Tardini,Engenho Novo,360000,88,3,2,1
+Rua Matias Aires,Engenho Novo,270000,84,2,3,1
+Travessa Dona Maria,Engenho Novo,290000,89,2,2,1
+Travessa Santa Luzia,Engenho Novo,180000,77,2,2,1
+Rua General Belegarde,Engenho Novo,240000,78,2,2,1
+Rua Araujo Leitão 925,Engenho Novo,160000,84,2,3,1
+Rua Acau,Engenho Novo,370000,63,2,2,0
+Rua E,Engenho Novo,240000,88,3,2,1
+Beco do Amorim,Engenho Novo,270000,72,2,2,1
+Travessa Sete de Setembro,Engenho Novo,220000,72,2,2,1
+Travessa Carneiro,Estácio,290000,64,2,2,0
+Rua Ortivo Guedes,Estácio,380000,80,2,2,1
+Rua G,Estácio,250000,86,2,2,1
+Praça Jose de Alencar,Flamengo,1760000,163,3,3,1
+Praça Jose de Alencar,Flamengo,1460000,191,3,3,1
+Praça Ana Paula Ribeiro,Freguesia (Ilha),750000,178,2,2,1
+Travessa Costa Carvalho,Freguesia (Ilha),590000,103,3,3,1
+Avenida Geremário Dantas,Freguesia (Jacarepaguá),370000,66,2,2,0
+Estrada dos Três Rios,Freguesia (Jacarepaguá),470000,69,2,2,0
+Travessa Doze,Freguesia (Jacarepaguá),380000,90,3,3,1
+Travessa Professor Valadares,Grajaú,500000,116,2,2,1
+Rua Olegarinha,Grajaú,310000,79,2,2,1
+Rua B,Grajaú,310000,77,2,2,1
+Travessa Doutor Paulo,Grajaú,240000,66,2,2,0
+Via Alan,Grajaú,410000,84,2,3,1
+Travessa Doutor Paulo,Grajaú,310000,62,2,2,0
+Rua do Barco,Grajaú,380000,74,2,2,1
+Rua Estrela,Grajaú,300000,88,2,3,1
+Rua Humaitá,Humaitá,900000,183,3,2,1
+Praça Ana Lima,Irajá,160000,69,2,2,0
+Rua Frei Alexandre,Irajá,220000,66,2,2,0
+Estrada da Água Grande,Irajá,280000,81,2,3,1
+Rua Turvo,Irajá,280000,83,2,2,1
+Rua Marinho Pessoa,Irajá,150000,73,2,2,1
+Avenida Pastor Martin Luther King Jr.,Irajá,300000,87,3,3,1
+Vila Candida,Irajá,160000,61,2,2,0
+Praça São Constâncio,Irajá,160000,72,2,2,1
+Vila Pureza,Irajá,190000,75,2,2,1
+Rua Pereira de Araujo,Irajá,210000,75,2,2,1
+Avenida Marisa Letícia Lula da Silva,Jacarepaguá,990000,157,2,2,1
+Avenida Marisa Letícia Lula da Silva,Jacarepaguá,970000,152,3,3,1
+Rua Ituverava,Jacarepaguá,980000,126,2,3,1
+Escadaria da Ituverava,Jacarepaguá,860000,143,2,3,1
+Estrada do Sertão,Jacarepaguá,750000,162,2,2,1
+Rua Araticum,Jacarepaguá,520000,101,3,3,1
+Rua Suzana Amaral,Jacarepaguá,660000,105,3,2,1
+Estrada Bougainville,Jacarepaguá,930000,132,3,2,1
+Rua Azaleias do Outeiro,Jacarepaguá,630000,102,2,3,1
+Rua Xavier d´Araújo,Jacarepaguá,570000,92,3,2,1
+Rua B,Jacarepaguá,570000,118,3,2,1
+Rua Sebastião Delfino Junior,Jacarepaguá,970000,160,3,3,1
+Rua Xavier d´Araújo,Jacarepaguá,660000,112,2,2,1
+Rua Santa Heloisa,Jardim Botânico,2350000,156,3,3,1
+Praça Cardeal Câmara,Lapa,330000,84,2,2,1
+Rua Santa Luzia,Lapa,670000,98,3,3,1
+Avenida Mem de Sá,Lapa,700000,166,2,3,1
+Rua Aparicio Borges,Laranjeiras,1330000,177,3,2,1
+Rua Martim Afonso,Leme,1020000,192,2,2,1
+Praça Alegria do Sossego,Madureira,130000,60,1,1,0
+Rua Mendes de Aguiar,Madureira,100000,31,1,1,0
+Rua Santa Luiza,Maracanã,370000,71,2,2,1
+Avenida Rei Pelé,Maracanã,280000,90,3,3,1
+Praça Cícero Peregrino,Méier,170000,62,2,2,0
+Rua Miguel Fernandes,Méier,230000,77,2,2,1
+Rua Guararema,Oswaldo Cruz,160000,66,2,2,0
+Rua Engenheiro Jose Carvalho Salgado,Oswaldo Cruz,150000,71,2,2,1
+Beco da Fontinha,Oswaldo Cruz,270000,82,3,2,1
+Rua João Batista,Paciência,200000,83,3,3,1
+Rua Um,Paciência,220000,78,2,2,1
+Rua Monte Rei,Paciência,290000,66,2,2,0
+Avenida A,Paciência,220000,88,3,2,1
+Travessa das Pranchas,Paciência,260000,82,2,3,1
+Travessa das Pranchas,Paciência,280000,82,3,2,1
+Praça Canoa Quebrada Bela VIsta,Paciência,220000,69,2,2,0
+Praia José Bonifácio,Paquetá,650000,102,3,3,1
+Rua Paço do Lumiar,Pechincha,190000,79,2,2,1
+Rua Um,Pedra de Guaratiba,180000,73,2,2,1
+Rua Um,Pedra de Guaratiba,410000,86,3,2,1
+Rua Dois,Piedade,250000,90,3,2,1
+Avenida Carlos Lacerda,Pilares,380000,68,2,2,0
+Rua Porena,Ramos,310000,69,2,2,0
+Avenida Brasil,Ramos,260000,65,2,2,0
+Rua João Romariz,Ramos,360000,83,2,3,1
+Rua Gonzaga Duque,Ramos,390000,60,1,1,0
+Rua Teixeira Franco,Ramos,260000,85,2,3,1
+Rua Pacheco Teles,Ramos,230000,76,2,2,1
+Rua Comerciária,Ramos,250000,68,2,2,0
+Rua Limites,Realengo,380000,79,2,2,1
+Rua Peruipe,Realengo,370000,83,2,2,1
+Rua Cristalina,Realengo,460000,61,2,2,0
+Rua A,Realengo,160000,60,1,1,0
+Rua Palhaço Arrelia,Realengo,350000,79,2,2,1
+Rua Pedro Teixeira,Realengo,470000,80,2,2,1
+Estrada General Canrobert da Costa,Realengo,470000,77,2,2,1
+Praça Nova Jersey,Realengo,380000,75,2,2,1
+Travessa Maragogipe,Realengo,250000,68,2,2,0
+Rua Lotus,Realengo,460000,61,2,2,0
+Rua do Governo,Realengo,490000,66,2,2,0
+Rua Aritiba,Realengo,230000,61,2,2,0
+Vila do 106,Realengo,220000,86,2,3,1
+Rua Odilon Martins de Andrade,Recreio dos Bandeirantes,270000,70,2,2,1
+Avenida Aldemir Martins,Recreio dos Bandeirantes,590000,97,2,2,1
+Avenida George Savalla,Recreio dos Bandeirantes,590000,98,3,2,1
+Rua Vittorio Migliora,Recreio dos Bandeirantes,1020000,177,2,3,1
+Avenida Aldemir Martins,Recreio dos Bandeirantes,1010000,131,2,3,1
+Avenida Aldemir Martins,Recreio dos Bandeirantes,1120000,134,2,2,1
+Rua Edna Côrte Silveira,Recreio dos Bandeirantes,600000,116,3,3,1
+Avenida Alfredo Balthazar da Silveira,Recreio dos Bandeirantes,1360000,169,2,2,1
+Rua Servidão F,Recreio dos Bandeirantes,650000,106,2,3,1
+PAL 3002,Recreio dos Bandeirantes,500000,102,2,3,1
+Praça Gutemberg de Castro,Recreio dos Bandeirantes,1370000,129,3,2,1
+Rua Projetada 16 PAA 11015,Recreio dos Bandeirantes,970000,179,3,2,1
+Rua Projetada 16 PAA 11015,Recreio dos Bandeirantes,1060000,133,3,2,1
+Rua Ernesto Carneiro Ribeiro,Santíssimo,220000,64,2,2,0
+Rua Ernesto Carneiro Ribeiro,Santíssimo,230000,85,3,3,1
+Rua Ernesto Carneiro Ribeiro,Santíssimo,240000,83,3,2,1
+Rua Evangelina de Lima Barreto,Santíssimo,100000,26,1,1,0
+Rua D PAA 11663/PAL 45187,Santíssimo,120000,67,2,2,0
+Rua D PAA 11663/PAL 45187,Santíssimo,290000,83,2,3,1
+Rua C PAA 11663/PAL 45187,Santíssimo,230000,64,2,2,0
+Rua C PAA 11663/PAL 45187,Santíssimo,120000,81,3,3,1
+Rua B PAA 11663/PAL 45187,Santíssimo,110000,72,2,2,1
+Rua I PAA 11663/PAL 45187,Santíssimo,250000,80,2,2,1
+Rua Rejane Paula de Melo,Santíssimo,210000,86,3,2,1
+Rua Guapi,Santo Cristo,130000,83,3,3,1
+Avenida Cidade de Lima,Santo Cristo,270000,61,2,2,0
+Ladeira Mendonça,Santo Cristo,290000,61,2,2,0
+Largo João da Baiana,Saúde,330000,80,2,2,1
+Praça Jornal do Comércio,Saúde,270000,73,2,2,1
+Praça Gonçalo Jacome,Senador Vasconcelos,240000,80,2,2,1
+Rua Paulo Humberto Pizziali,Sepetiba,310000,82,2,2,1
+Rua Doutor José Valadão,Sepetiba,90000,49,1,1,0
+Rua Peter Giuliano Pereira da Silva,Sepetiba,280000,86,3,2,1
+Travessa Quarenta e um,Sepetiba,290000,90,2,3,1
+Estrada do Piaí,Sepetiba,380000,61,2,2,0
+Rua Sebastião de Oliveira,Sepetiba,220000,74,2,2,1
+Travessa São José,Sepetiba,390000,73,2,2,1
+Avenida dos Mananciais,Taquara,360000,71,2,2,1
+Rua Pedro Ivo,Taquara,460000,88,2,3,1
+Estrada Boiuna,Taquara,320000,86,2,2,1
+Largo do Rio Grande,Taquara,300000,69,2,2,0
+Rua Leny Eversong,Taquara,290000,86,2,2,1
+Rua Nacional,Taquara,400000,88,3,3,1
+Rua Iriquitia,Taquara,240000,72,2,2,1
+Estrada do Outeiro Santo,Taquara,430000,65,2,2,0
+Largo Pedro Passos,Taquara,270000,83,3,2,1
+Rua Eduardo Ramos,Tijuca,960000,131,2,3,1
+Rua Angelo Agostini,Tijuca,840000,176,2,3,1
+Avenida Maracanã,Tijuca,480000,78,2,2,1
+Rua Antonio Pinto da Mota,Tijuca,720000,192,3,2,1
+Travessa Jovem,Tijuca,510000,90,2,3,1
+Caminho do Canal,Tijuca,830000,193,2,2,1
+Ladeira do Joá,Tijuca,800000,187,3,2,1
+Travessa Jose Higino,Tijuca,860000,192,3,2,1
+Travessa Olímpia,Tijuca,1030000,163,2,2,1
+Travessa Clemente,Tijuca,1170000,182,2,2,1
+Vila Rica,Tijuca,580000,105,3,3,1
+Rua Belacap,Tijuca,480000,88,3,3,1
+Caminho do Canal,Tijuca,1230000,126,3,2,1
+Rua Basileia,Tijuca,550000,92,2,2,1
+Rua Piedade,Tijuca,1190000,129,2,3,1
+Escadaria da Independência,Tijuca,830000,191,2,3,1
+Beco Terreirinho,Tijuca,1280000,130,3,3,1
+Ladeira do Joá,Tijuca,460000,73,2,2,1
+Travessa Eufrásio,Tijuca,910000,165,2,2,1
+Rua São José,Tijuca,780000,149,3,2,1
+Rua Jurupari,Tijuca,730000,195,3,2,1
+Travessa Albertino,Tijuca,1080000,124,3,2,1
+Rua da Horta ,Tijuca,720000,178,3,2,1
+Rua José da Fonseca,Tijuca,570000,91,3,2,1
+Travessa Mauro Santos,Tijuca,410000,63,2,2,0
+Rua Belacap,Tijuca,570000,93,3,2,1
+Ladeira Antônio,Tijuca,1230000,185,2,2,1
+Travessa Albertino,Tijuca,810000,194,2,3,1
+Rua do Canal,Tijuca,930000,187,3,2,1
+Rua Piedade,Tijuca,1050000,172,3,2,1
+Travessa Manoel Rodrigues,Tijuca,1080000,137,2,2,1
+Rua da Horta ,Tijuca,1290000,182,2,3,1
+Rua B,Vargem Pequena,220000,86,3,2,1
+Praça João Carlos Vital,Vargem Pequena,240000,75,2,2,1
+Rua Zilda Arns Neumann,Vargem Pequena,710000,134,2,2,1
+Rua A,Vargem Pequena,380000,82,2,2,1
+Travessa M. C. Euzébio,Vila Militar,170000,76,2,2,1
+Rua Avelino Lourenço,Vila Militar,210000,67,2,2,0
+Travessa Mestre Heckel de Assis,Vila Militar,200000,73,2,2,1
+Rua Damião dos Santos,Vila Militar,190000,78,2,2,1
+Rua Avelino Lourenço,Vila Militar,120000,78,2,2,1
+Travessa Francisco Flávio,Vila Militar,120000,80,2,2,1
+Travessa Mestre Francisco Sombra,Vila Militar,90000,23,1,1,0
+Praça Professor Cardoso Fontes,Vila Valqueire,560000,103,2,2,1
+Rua Atinau,Vila Valqueire,430000,84,3,2,1
+Praça Imbituba,Vila Valqueire,330000,85,2,3,1
+Largo das Mães,Vila Valqueire,550000,110,2,2,1
+Rua Luiz Beltrão,Vila Valqueire,510000,118,3,2,1
+Praça das Papoulas,Vila Valqueire,330000,81,2,3,1
