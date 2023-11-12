@@ -25,20 +25,17 @@ def tresPioresBairros():
     return pioresBairrosRepetidos
 
 def recorrenciaBairros():
-    bairros = df['bairro'].value_counts()
-    bairrosRepetidos = bairros.head(3).index.tolist() #os 3 quemais se repetem.
+    bairrosRepetidos = tresPrimeirosBairros()
     recorrencia = df[df['bairro'].isin(bairrosRepetidos)]['bairro'].value_counts() #aqui pegamos a quantidade de vezes que repeiu.
     return recorrencia.values
 
 def recorrenciaPioresBairros():
-    bairros = df['bairro'].value_counts()
-    pioresBairrosRepetidos = bairros.tail(3).index.tolist() #os 3 que menos se repetem.
+    pioresBairrosRepetidos = tresPioresBairros()
     recorrencia = df[df['bairro'].isin(pioresBairrosRepetidos)]['bairro'].value_counts() #aqui pegamos a quantidade de vezes que repeiu.
     return recorrencia.values
 
 def precoMedio():
-    bairros = df['bairro'].value_counts()
-    bairrosRepetidos = bairros.head(3).index.tolist() #os 3 quemais se repetem.
+    bairrosRepetidos = tresPrimeirosBairros()
     colunaPreco = df[df['bairro'].isin(bairrosRepetidos)] #Aqui transforma a coluna preço só dos 3 bairros selecionados, ai conseguimos tirar a media na linha de baixo usando groupby.
     preco = colunaPreco.groupby('bairro')['preco'].mean()
     preco = preco[bairrosRepetidos].values.astype(int) #preco medio apenas dos bairros que importam.
@@ -57,26 +54,24 @@ def graficoBairros():
 
     st.code('''
             def tresPrimeirosBairros():
-            bairros = df['bairro'].value_counts()
-            bairrosRepetidos = bairros.head(3).index.tolist()
-            return bairrosRepetidos
+                bairros = df['bairro'].value_counts()
+                bairrosRepetidos = bairros.head(3).index.tolist()
+                return bairrosRepetidos
             ''')
     
     st.code('''
             def recorrenciaBairros():
-            bairros = df['bairro'].value_counts()
-            bairrosRepetidos = bairros.head(3).index.tolist() 
-            recorrencia = df[df['bairro'].isin(bairrosRepetidos)]['bairro'].value_counts() 
-            return recorrencia.values
+                bairrosRepetidos = tresPrimeirosBairros()
+                recorrencia = df[df['bairro'].isin(bairrosRepetidos)]['bairro'].value_counts() 
+                return recorrencia.values
             ''')
     st.code('''
             def precoMedio():
-            bairros = df['bairro'].value_counts()
-            bairrosRepetidos = bairros.head(3).index.tolist() 
-            colunaPreco = df[df['bairro'].isin(bairrosRepetidos)] 
-            preco = colunaPreco.groupby('bairro')['preco'].mean()
-            preco = preco[bairrosRepetidos].values.astype(int)
-            return preco
+                bairrosRepetidos = tresPrimeirosBairros()
+                colunaPreco = df[df['bairro'].isin(bairrosRepetidos)] 
+                preco = colunaPreco.groupby('bairro')['preco'].mean()
+                preco = preco[bairrosRepetidos].values.astype(int)
+                return preco
             ''')
 
 
@@ -86,6 +81,38 @@ def graficoBairros():
     ax2.pie(tamanho2, labels=bairros2)
     ax2.set_title('Analise dos bairros menos vendidos')
     st.pyplot(fig2)
+   
+def preferenciaGaragem():
+    garagem = df['garagem'].map({0: 'SEM', 1: 'COM'})
+    garagem = garagem.value_counts()
+    return garagem
+
+def graficoGaragem():
+    dados = preferenciaGaragem()
+    valoresGaragem = dados.values
+    labelsGaragem = dados.index
+
+    fig, ax = plt.subplots()
+    ax.bar(labelsGaragem, valoresGaragem)
+    st.pyplot(fig)
+
+    st.code(''' 
+                def preferenciaGaragem():
+                garagem = df['garagem'].map({0: 'SEM', 1: 'COM'})
+                garagem = garagem.value_counts()
+                return garagem
+            ''')
+    st.code(dados)
+    st.code(''' 
+                dados = preferenciaGaragem()
+                valoresGaragem = dados.values
+                labelsGaragem = dados.index
+
+                fig, ax = plt.subplots()
+                ax.bar(labelsGaragem, valoresGaragem)
+            ''')
 
 st.title("analise de dados")
+
 graficoBairros()
+graficoGaragem()
